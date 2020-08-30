@@ -2,13 +2,21 @@
 
 > Curating the best projects that were made and mainly contributed by Vietnamese people
 
+## ~ 10k ★
+
+- https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
 ## > 1k ★
 
-- item 1
-- item 2
+- https://github.com/chiphuyen/machine-learning-systems-design
+- https://github.com/TensorSpeech/TensorFlowTTS
+- https://github.com/chiphuyen/lazynlp
+- 
 
 ## > 500 ★
 
+- https://github.com/hunglc007/tensorflow-yolov4-tflite
+- https://github.com/maudzung/Complex-YOLOv4-Pytorch
 
 ## Contributing 
 
