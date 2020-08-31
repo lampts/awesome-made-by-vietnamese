@@ -18,6 +18,10 @@
 - https://github.com/hunglc007/tensorflow-yolov4-tflite
 - https://github.com/maudzung/Complex-YOLOv4-Pytorch
 
+## > 100 ★
+
+- https://github.com/VinAIResearch/PhoBERT
+
 ## Contributing 
 
 Feel free to make a pull request to add more repos as following constraints:
