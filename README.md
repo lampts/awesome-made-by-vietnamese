@@ -21,6 +21,8 @@
 ## > 100 ★
 
 - https://github.com/VinAIResearch/PhoBERT
+- https://github.com/thangvubk/video-super-resolution
+- 
 
 ## Contributing 
 
