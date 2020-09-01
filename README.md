@@ -2,6 +2,14 @@
 
 > Curating the best projects that were made and mainly contributed by Vietnamese people
 
+## Communities
+
+- (forum MLCoBan, ~50k members)[https://forum.machinelearningcoban.com/]
+- (Data Science and Big Data, ~50k members)[https://www.facebook.com/groups/870665749718859/]
+- (Vietnam Data Scientist, ~15k members)[https://www.facebook.com/groups/vietnam.data.scientists/]
+- (VietAI, ~15k members)[https://www.facebook.com/vietaipublic/]
+- (Tensorflow Vietnam GDG, ~2k members)[https://www.facebook.com/gdgtensorflowvietnam/]
+
 ## ~ 10k ★
 
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials
