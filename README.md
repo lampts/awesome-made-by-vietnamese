@@ -30,7 +30,11 @@
 
 - https://github.com/VinAIResearch/PhoBERT
 - https://github.com/thangvubk/video-super-resolution
-- 
+
+
+## Promising
+
+- https://github.com/usimarit/TiramisuASR
 
 ## Contributing 
 
