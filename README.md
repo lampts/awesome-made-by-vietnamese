@@ -1,4 +1,4 @@
-# 🇻🇳 Awesome AIML Made by Vienamese [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🇻🇳 Awesome AIML Made by Vienamese [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
 
 > Curating the best projects that were made and mainly contributed by Vietnamese people
 
